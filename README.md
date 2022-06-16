@@ -3,7 +3,7 @@ Monitoring the stock prices in various sources.
 
 
 ## Description
-The application to monitor the stok pricesfrom variaous sources.\ \
+The application to monitor the stok pricesfrom variaous sources. \ 
 
 This contains two modules.
 * front-end
