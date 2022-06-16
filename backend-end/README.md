@@ -1,6 +1,6 @@
 # Stock Price Monitor - Backend App
 
-Frontend application for monitoring stock prices
+Backend application for monitoring stock prices
 
 ## Executing program
 
