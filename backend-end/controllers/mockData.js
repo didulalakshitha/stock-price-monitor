@@ -18,7 +18,7 @@ function getSources() {
   }];
 };
 
-let prices = new Map();
+const prices = new Map();
 prices.clear();
 
 function generatePrices() {
