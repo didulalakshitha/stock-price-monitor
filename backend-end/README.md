@@ -1,4 +1,4 @@
-# Stock Price Monitor - Bacend App
+# Stock Price Monitor - Backend App
 
 Frontend application for monitoring stock prices
 
