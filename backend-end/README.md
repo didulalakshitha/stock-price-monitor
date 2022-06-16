@@ -11,7 +11,7 @@ Install the libraries
 
 ### `npm start`
 Run the app in the develop mode.\
-Http server will start in http://localhost:4000\
+Http server will start in http://localhost:4000 \
 Socket connestion will start in http://localhost:3001
 
 ### `npm test`
