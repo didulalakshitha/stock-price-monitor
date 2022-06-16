@@ -10,7 +10,7 @@ const SourceSelector = ({ title, source, value, onSelectChange }) => {
       <div>{title}</div>
       <Select onChange={onSelectChange} value={value} className={styles.selectWidth} style={{ width: 100 }}>
         {source?.map((res) => (
-          <Option value={res}>{res}</Option>
+          <Option key={res} value={res}>{res}</Option>
         ))}
       </Select>
     </>

@@ -7,7 +7,7 @@ const http = require('http');
 const cors = require('cors');
 
 const app = express();
-const data_timeout = 3000;
+const data_timeout = 5000;
 
 app.use(cors());
 
