@@ -23,5 +23,5 @@ The backend application developed in NodeJS, express.
 
 ## Installation
 Refer the readme file in each moodule. It contains the steps and commands to execute the application. 
-https://github.com/didulalakshitha/stock-price-monitor/blob/master/front-end/README.md
-https://github.com/didulalakshitha/stock-price-monitor/tree/master/backend-end#readme
+[README - front-end](https://github.com/didulalakshitha/stock-price-monitor/tree/master/front-end#readme)
+[README - backend-end](https://github.com/didulalakshitha/stock-price-monitor/tree/master/backend-end#readme)
