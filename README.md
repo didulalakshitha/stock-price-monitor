@@ -19,6 +19,7 @@ The backend application developed in NodeJS, express.
 * Mock data is stored in memory. (No database is used)
 * Stock prices of all tickers are fetched since this is very simple application.
 * There is a requirement to update the stock prices periodically. This is handled using the infinite callback in every 5 seconds. No advanced mechanism is used such as cron jobs and service messages since no exact details are mentioned.
+* Considered two price sources and each one has unique tickers. 
 
 
 ## Installation
