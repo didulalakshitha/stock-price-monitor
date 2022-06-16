@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Stock Price Monitor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Frontend application for monitoring stock prices
+
+## Executing program
+
+```
+code blocks for commands
+```
 
 ## Available Scripts
 
